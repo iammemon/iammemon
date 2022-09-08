@@ -1,3 +1,6 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iammemon&show_icons=true&theme=dracula&count_private=true)
+
+
 ### Hi there 👋
 
 <!--
